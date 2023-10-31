@@ -6,6 +6,10 @@ body {
   font-family: sans-serif;
 }
 
+h1 {
+  font-size: 300%;
+}
+
 .container {
   width: 100%;
   max-width: 860px;
